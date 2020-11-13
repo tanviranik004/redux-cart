@@ -34,6 +34,7 @@ const cartReducers = (state=initialState,action) =>{
 
         default:
             return state;
+            //Anik
     }
 }
 
